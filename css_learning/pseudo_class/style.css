@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+
+}
+a:link{
+    color: bisque;
+
+}
+a:visited{
+    color: rgb(77, 27, 68);
+
+}
+a:hover{
+    color: aqua;
+
+}
+a:active{
+    color: red;
+}
+div:hoover{
+
+}

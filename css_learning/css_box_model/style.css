@@ -1,0 +1,13 @@
+.box{
+    border-style:dashed;
+    border-width: 1px;
+    border-color: black;
+}
+h1{
+    border-style:dashed;
+    border-width: 1px;
+    border-color: black;
+    margin-left: 5%;
+    padding-left: 5%;
+    
+}
